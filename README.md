@@ -6,17 +6,19 @@
 
 ## <picture><img src = "https://cdn3.emoji.gg/emojis/8771_glitchcat.gif" width = 50px></picture> **About me**
 
-<picture> <img src="https://github.com/jambalong/jambalong/blob/main/img/cat_photo2.jpg" width = 200px></picture>
+<img src="https://github.com/jambalong/jambalong/blob/main/img/cat_photo2.jpg" width="200px" align="right">
 
-- I love my cats, you just saw Belle <3
+<br>
 
-- A passionate Self-taught Full Stack Developer
+- I love my cats, they remind me to always approach challenges with curiosity and playfulness
 
-- Developing Games at my spare time
+- A passionate self-taught Full Stack Developer, I'm always eager to learn new technologies and frameworks
 
-- Currently learning Web Development by self
+- Developing Games in my spare time, I find the process of game design fascinating and overall fun
 
-- I’m currently open for a new job opportunity, this is [my resume](https://jambalong/resume)
+- Currently learning Web Development by self, focusing on both front-end and back-end technologies
+
+- I’m currently open for a new job opportunity; this is [my resume](https://jambalong/resume)
 
 <br><br>
 

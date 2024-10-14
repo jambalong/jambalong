@@ -6,11 +6,9 @@
 
 ## <picture><img src = "https://cdn3.emoji.gg/emojis/8771_glitchcat.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/jambalong/jambalong/blob/main/img/cat_photo.jpg" width = 250px></picture>
+<picture> <img src="https://github.com/jambalong/jambalong/blob/main/img/cat_photo2.jpg" width = 200px></picture>
 
-<br>
-
-- I love my cats, there's Taco right there -->
+- I love my cats, you just saw Belle <3
 
 - A passionate Self-taught Full Stack Developer
 
@@ -18,13 +16,14 @@
 
 - Currently learning Web Development by self
 
-- I’m currently open for a new job opportunity, this is [my resume](https://read.cv/jambalong)
+- I’m currently open for a new job opportunity, this is [my resume](https://jambalong/resume)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <br>
 
 <p align="center">
@@ -52,7 +51,7 @@
 
 - **Deployment**:
 
-    ---
+    ![Github Actions](https://img.shields.io/badge/github%20actions-grey?style=for-the-badge&logo=github%20actions&logoColor=white)
 
 - **Tools**:
 
@@ -73,8 +72,8 @@
 
 <br>
 
-<a href="mailto:jambalong@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:john@jambalong.com" target="_blank">
+<img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=mail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 <br>

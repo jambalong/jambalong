@@ -18,7 +18,7 @@
 
 - Currently learning Web Development by self, focusing on both front-end and back-end technologies
 
-- I’m currently open for a new job opportunity; this is [my resume](https://jambalong/resume)
+- I’m currently open for a new job opportunity; this is [my resume](https://jambalong.com/resume)
 
 <br><br>
 

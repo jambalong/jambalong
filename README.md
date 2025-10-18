@@ -41,6 +41,7 @@
 
     ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-darkred?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white)
     ![Hotwire](https://img.shields.io/badge/hotwire-yellow?style=for-the-badge&logo=hotwire&logoColor=black)
+    ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)
 
     ![Godot Engine](https://img.shields.io/badge/godot%20engine-blue?style=for-the-badge&logo=godot%20engine&logoColor=white)
 

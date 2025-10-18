@@ -14,9 +14,9 @@
 
 - A passionate self-taught Full Stack Developer, I'm always eager to learn new technologies and frameworks
 
-- Developing Games in my spare time, I find the process of game design fascinating and overall fun
+- Developing games in my spare time, I find the process of game design fascinating and overall fun
 
-- Currently learning Web Development by self, focusing on both front-end and back-end technologies
+- Currently learning Web Development, focusing on both front-end and back-end technologies
 
 <br><br>
 
@@ -41,17 +41,18 @@
 
     ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-darkred?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white)
     ![Hotwire](https://img.shields.io/badge/hotwire-yellow?style=for-the-badge&logo=hotwire&logoColor=black)
-    ![Tailwind](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 
     ![Godot Engine](https://img.shields.io/badge/godot%20engine-blue?style=for-the-badge&logo=godot%20engine&logoColor=white)
 
 - **Testing**:
 
     ![Rspec](https://img.shields.io/badge/rspec-darkred?style=for-the-badge)
+    ![Jest](https://img.shields.io/badge/jest-yellow?style=for-the-badge)
 
 - **Deployment**:
 
     ![Github Actions](https://img.shields.io/badge/github%20actions-grey?style=for-the-badge&logo=github%20actions&logoColor=white)
+    ![Kamal](https://img.shields.io/badge/kamal-blue?style=for-the-badge)
 
 - **Tools**:
 
@@ -72,7 +73,7 @@
 
 <br>
 
-<a href="mailto:john@jambalong.com" target="_blank">
+<a href="mailto:johnalvin@ambalong.dev" target="_blank">
 <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=mail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 

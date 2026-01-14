@@ -66,11 +66,3 @@ I am a **Computer Science Student** and **IT Support Technician** graduating in 
 | **[Ruby Chess Engine](https://github.com/jambalong/ruby-chess)** | `Ruby` `RSpec` `OOP` | A command-line chess game enforcing 100% rule compliance. Built with strict SRP architecture and TDD. |
 | **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `CSS` | A responsive Single Page Application (SPA) for task management demonstrating immutable state patterns. |
 | **[Portfolio Site](https://github.com/jambalong/portfolio)** | `Bridgetown` `DigitalOcean` | My personal portfolio infrastructure. Deployed on DigitalOcean using static site generation. |
-
----
-
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jambalong&show_icons=true&theme=dracula&hide_border=true" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambalong&layout=compact&theme=dracula&hide_border=true" alt="languages" height="150" />
-</p>

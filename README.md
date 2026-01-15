@@ -17,7 +17,7 @@
 
 ### **About Me**
 
-I am a **Computer Science Student** and **IT Support Technician** graduating in 2026. My background in operations has taught me that code doesn't exist in a vacuum. It must solve real business problems.
+I am a **Computer Science Student** and **IT Support Technician** graduating in 2026. My background in operations has taught me that software doesn't live in isolation. It must solve real business problems.
 
 I pride myself on being the person who figures it out. I approach technical challenges with resourcefulness and I am committed to finding the solution.
 

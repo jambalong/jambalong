@@ -66,7 +66,7 @@ I pride myself on being the person who figures it out. Whether I'm troubleshooti
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `PostgreSQL` `Docker` | **Capstone Project.** An inventory tracking and optimization system. It uses recursive logic to break down complex crafting requirements into actionable checklists based on the user's current materials. Features a reactive, SPA-like UI and a custom Guest-to-User data migration system. |
+| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `Docker` `Kamal 2` | **Capstone Project.** An inventory tracking and optimization system. It uses recursive logic to break down complex crafting requirements into actionable checklists based on the user's current materials. Features a reactive, SPA-like UI and a custom Guest-to-User data migration system. |
 | **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | A terminal-based chess game. Focused on clean code and Test-Driven Development (TDD) to handle complex movements and win conditions. |
 | **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `CSS` | A task management app focused on modern state management. Practiced using React hooks to handle data updates reliably across a component-based architecture. |
 | **[Whisker Dash](https://github.com/jambalong/whisker-dash)** | `Godot 4` `GDScript` | Technical prototype exploring **physics-based movement** and dynamic scene management. Implemented a scalable level-loading system that auto-constructs file paths and resolved complex collision-shape bugs. |

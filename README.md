@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm John-Alvin Ambalong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <b>Computer Science Student | Full Stack Developer | IT Operations</b><br>
+  <b>Computer Science Student | Software Engineer, Full Stack | IT Intern</b><br>
 </p>
 
 <p align="center">
@@ -15,46 +15,47 @@
 
 <br>
 
-### **About Me**
+I have a focus on **building software** and **fixing systems**. My work as an IT Intern has taught me that code doesn't live in isolation. It runs on real hardware, and it needs to be reliable.
 
-I am a **Computer Science Student** and **IT Support Technician** graduating in 2026. My background in operations has taught me that software doesn't live in isolation. It must solve real business problems.
+I pride myself on being the person who figures it out. Whether I'm troubleshooting a campus workstation or debugging a Rails controller, I approach problems with a researcher's mindset. I research and test until I find the solution.
 
-I pride myself on being the person who figures it out. I approach technical challenges with resourcefulness and I am committed to finding the solution.
+**Currently Working On**
+- **[Pangu Terminal](https://github.com/jambalong/pangu-terminal):** Developing a resource optimization platform for Wuthering Waves using Ruby on Rails and Hotwire.
+- **IT Internship:** Providing hands-on technical support, hardware imaging, and troubleshooting at Walla Walla Community College.
 
-- **Currently Working On:** [Pangu Terminal](https://github.com/jambalong/pangu-terminal), a resource optimization platform for Wuthering Waves.
-- **Education:** AAS in Software Design & WSU CS Coursework.
-- **Core Stack:** Ruby on Rails, React, Hotwire, and Docker.
-- **Fun Fact:** My cats remind me to approach every bug with curiosity (and occasional chaos).
+**Education:**
+- AAS in Software Design & WSU Computer Science Coursework (Graduating 2026)
+
+**Fun Fact:**
+- My cats remind me to approach every bug with curiosity (and occasional chaos).
 
 ---
 
-### **Technical Stack**
+### Technical Stack
 
-**Backend & Systems**
+**Languages**
 <br>
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![RSpec](https://img.shields.io/badge/rspec-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Frontend**
-<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Libraries**
+<br>
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Hotwire](https://img.shields.io/badge/hotwire-%23FFD100.svg?style=for-the-badge&logo=hotwire&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-**DevOps & Tools**
+**DevOps, Database & Tools**
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kamal](https://img.shields.io/badge/Kamal-%23316192.svg?style=for-the-badge&logo=keystone&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
-**Game Development (Hobby)**
+**Hobbies**
 <br>
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478cbf)
 ![GDScript](https://img.shields.io/badge/GDScript-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)

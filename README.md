@@ -17,11 +17,13 @@
 
 ### **About Me**
 
-I am a **Computer Science Student** and **IT Support Technician** graduating in 2026. My background in operations management and technical sales has taught me that code doesn't exist in a vacuum, it must solve real business problems.
+I am a **Computer Science Student** and **IT Support Technician** graduating in 2026. My background in operations has taught me that code doesn't exist in a vacuum. It must solve real business problems.
 
-- **Currently Working On:** [Pangu Terminal](https://github.com/jambalong/pangu-terminal), a resource optimization engine for Wuthering Waves.
+I pride myself on being the person who figures it out. I approach technical challenges with resourcefulness and I am committed to finding the solution.
+
+- **Currently Working On:** [Pangu Terminal](https://github.com/jambalong/pangu-terminal), a resource optimization platform for Wuthering Waves.
 - **Education:** AAS in Software Design & WSU CS Coursework.
-- **Core Stack:** Ruby on Rails, React, Hotwire, Kamal & Docker.
+- **Core Stack:** Ruby on Rails, React, Hotwire, and Docker.
 - **Fun Fact:** My cats remind me to approach every bug with curiosity (and occasional chaos).
 
 ---
@@ -32,24 +34,25 @@ I am a **Computer Science Student** and **IT Support Technician** graduating in 
 <br>
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![RSpec](https://img.shields.io/badge/rspec-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Frontend**
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Hotwire](https://img.shields.io/badge/hotwire-yellow?style=for-the-badge&logo=hotwire&logoColor=white)
+![Hotwire](https://img.shields.io/badge/hotwire-%23FFD100.svg?style=for-the-badge&logo=hotwire&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 **DevOps & Tools**
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kamal](https://img.shields.io/badge/Kamal-%23316192.svg?style=for-the-badge&logo=keystone&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Kamal](https://img.shields.io/badge/Kamal-%23316192.svg?style=for-the-badge&logo=keystone&logoColor=white)
 
 **Game Development (Hobby)**
 <br>
@@ -62,7 +65,7 @@ I am a **Computer Science Student** and **IT Support Technician** graduating in 
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Ruby on Rails` `Hotwire` `PostgreSQL` | **Capstone Project.** A persistent inventory management system reconciling "owned" vs "needed" materials using recursive synthesis logic. |
-| **[Ruby Chess Engine](https://github.com/jambalong/ruby-chess)** | `Ruby` `RSpec` `OOP` | A command-line chess game enforcing 100% rule compliance. Built with strict SRP architecture and TDD. |
-| **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `CSS` | A responsive Single Page Application (SPA) for task management demonstrating immutable state patterns. |
-| **[Portfolio Site](https://github.com/jambalong/portfolio)** | `Bridgetown` `DigitalOcean` | My personal portfolio infrastructure. Deployed on DigitalOcean using static site generation. |
+| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Ruby on Rails` `Hotwire` `PostgreSQL` | **Capstone Project.** An inventory tracking and optimization system. It uses recursive logic to break down complex crafting requirements into actionable checklists based on the user's current materials. |
+| **[Ruby Chess Engine](https://github.com/jambalong/ruby-chess)** | `Ruby` `RSpec` `OOP` | A terminal-based chess game. Focused on clean code and Test-Driven Development (TDD) to handle complex movements and win conditions. |
+| **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `CSS` | A task management app focused on modern state management. Practiced using React hooks to handle data updates reliably across a component-based architecture. |
+| **[Portfolio Site](https://github.com/jambalong/portfolio)** | `Bridgetown` `DigitalOcean` | My personal site and project hub. Built with a static site generator and deployed via the DigitalOcean Platform. |

@@ -66,10 +66,9 @@ I pride myself on being the person who figures it out. Whether I'm troubleshooti
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `Docker` `Kamal 2` | **Capstone Project.** An inventory tracking and optimization system. It uses recursive logic to break down complex crafting requirements into actionable checklists based on the user's current materials. Features a reactive, SPA-like UI and a custom Guest-to-User data migration system. |
+| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `Docker` `Kamal 2` | **Capstone Project.** A resource platform for Wuthering Waves. I developed this platform to solve complex progression tracking using a recursive calculation engine and an interactive ascension planner. It features a reactive UI via Hotwire, a persistent inventory system, and a custom data migration flow for guest users. |
 | **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | A terminal-based chess game. Focused on clean code and Test-Driven Development (TDD) to handle complex movements and win conditions. |
 | **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `CSS` | A task management app focused on modern state management. Practiced using React hooks to handle data updates reliably across a component-based architecture. |
 | **[Whisker Dash](https://github.com/jambalong/whisker-dash)** | `Godot 4` `GDScript` | Technical prototype exploring **physics-based movement** and dynamic scene management. Implemented a scalable level-loading system that auto-constructs file paths and resolved complex collision-shape bugs. |
-| **[Portfolio Site](https://github.com/jambalong/portfolio)** | `Bridgetown` `DigitalOcean` | My personal site and project hub. Built with a static site generator and deployed via the DigitalOcean Platform. |
-
+| **[Portfolio Site](https://github.com/jambalong/portfolio)** | `Astro` `React` `TailwindCSS` `Netlify` | My personal portfolio and blog built with Astro and React. Deployed via Netlify. Featuring a type-safe blog powered by Astro Content Collections. |
 

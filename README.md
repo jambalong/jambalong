@@ -1,42 +1,31 @@
-<h1 align="center">Hi, I'm John-Alvin Ambalong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# Hi, I'm John-Alvin Ambalong
 
-<p align="center">
-  <b>Computer Science Student | Software Engineer, Full Stack | IT Intern</b><br>
-</p>
+**Software Engineer | Ruby on Rails & Full-Stack Development**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jambalong" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:johnalvin@ambalong.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+Building full-stack web applications with Ruby on Rails. Currently developing [Pangu Terminal](https://github.com/jambalong/pangu-terminal), a resource optimization platform for Wuthering Waves.
 
-<br>
-
-I have a focus on **building software** and **fixing systems**. My work as an IT Intern has taught me that code doesn't live in isolation. It runs on real hardware, and it needs to be reliable.
-
-I pride myself on being the person who figures it out. Whether I'm troubleshooting a campus workstation or debugging a Rails controller, I approach problems with a researcher's mindset. I research and test until I find the solution.
-
-**Currently Working On**
-- **[Pangu Terminal](https://github.com/jambalong/pangu-terminal):** Developing a resource optimization platform for Wuthering Waves using Ruby on Rails and Hotwire.
-- **IT Internship:** Providing hands-on technical support, hardware imaging, and troubleshooting at Walla Walla Community College.
-
-**Education:**
-- AAS in Software Design & WSU Computer Science Coursework (Graduating 2026)
-
-**Fun Fact:**
-- My cats remind me to approach every bug with curiosity (and occasional chaos).
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jambalong)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnalvin@ambalong.dev)
 
 ---
 
-### Technical Stack
+## Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `PostgreSQL` `Docker` | Resource optimization platform calculating exact material deficits by reconciling game progression requirements against player inventory. Features polymorphic planning models, cross-tier EXP equivalence logic, and 3-to-1 synthesis opportunity detection. Deployed with Docker and Kamal 2. |
+| **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | Terminal chess game with full move validation, collision detection, and check/checkmate logic. Built with object-oriented design principles and comprehensive RSpec test coverage. |
+| **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `Vite` | Task management app demonstrating component-based architecture with React hooks and immutable state patterns. |
+
+---
+
+## Technical Stack
 
 **Languages**
 <br>
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Frameworks & Libraries**
@@ -60,15 +49,10 @@ I pride myself on being the person who figures it out. Whether I'm troubleshooti
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=478cbf)
 ![GDScript](https://img.shields.io/badge/GDScript-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+
 ---
 
-### **Featured Projects**
+## Education
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `Docker` `Kamal 2` | **Capstone Project.** A resource platform for Wuthering Waves. I developed this platform to solve complex progression tracking using a recursive calculation engine and an interactive ascension planner. It features a reactive UI via Hotwire, a persistent inventory system, and a custom data migration flow for guest users. |
-| **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | A terminal-based chess game. Focused on clean code and Test-Driven Development (TDD) to handle complex movements and win conditions. |
-| **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `CSS` | A task management app focused on modern state management. Practiced using React hooks to handle data updates reliably across a component-based architecture. |
-| **[Whisker Dash](https://github.com/jambalong/whisker-dash)** | `Godot 4` `GDScript` | Technical prototype exploring **physics-based movement** and dynamic scene management. Implemented a scalable level-loading system that auto-constructs file paths and resolved complex collision-shape bugs. |
-| **[Portfolio Site](https://github.com/jambalong/portfolio)** | `Astro` `React` `TailwindCSS` `Netlify` | My personal portfolio and blog built with Astro and React. Deployed via Netlify. Featuring a type-safe blog powered by Astro Content Collections. |
-
+**AAS in Software Design** — Walla Walla Community College (Graduating June 2026)  
+**Undergraduate Studies (Computer Science)** — Washington State University (2018-2019)

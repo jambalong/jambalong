@@ -14,7 +14,7 @@ Building full-stack web applications with Ruby on Rails. Currently developing [P
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `PostgreSQL` `Docker` | Resource optimization platform calculating exact material deficits by reconciling game progression requirements against player inventory. Features polymorphic planning models, cross-tier EXP equivalence logic, and 3-to-1 synthesis opportunity detection. Deployed with Docker and Kamal 2. |
-| **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | Terminal chess game with full move validation, collision detection, and check/checkmate logic. Built with object-oriented design principles and comprehensive RSpec test coverage. |
+| **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | Terminal chess game with full move validation, collision detection, and check/checkmate logic. Built with pure Ruby using object-oriented design principles. |
 | **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `Vite` | Task management app demonstrating component-based architecture with React hooks and immutable state patterns. |
 
 ---
@@ -26,7 +26,6 @@ Building full-stack web applications with Ruby on Rails. Currently developing [P
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Frameworks & Libraries**
 <br>

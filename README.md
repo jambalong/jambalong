@@ -14,7 +14,7 @@ Building full-stack web applications with Ruby on Rails. Currently developing [P
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `PostgreSQL` `Docker` | Resource optimization platform calculating exact material deficits by reconciling game progression requirements against player inventory. Features polymorphic planning models, cross-tier EXP equivalence logic, and 3-to-1 synthesis opportunity detection. Deployed with Docker and Kamal 2. |
-| **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `RSpec` `OOP` | Terminal chess game with full move validation, collision detection, and check/checkmate logic. Built with pure Ruby using object-oriented design principles. |
+| **[Ruby Chess Engine](https://github.com/jambalong/chess)** | `Ruby` `OOP` | Terminal chess game with full move validation, collision detection, and check/checkmate logic. Built with pure Ruby using object-oriented design principles. |
 | **[Pebble List](https://github.com/jambalong/pebble-list)** | `React` `JavaScript` `Vite` | Task management app demonstrating component-based architecture with React hooks and immutable state patterns. |
 
 ---

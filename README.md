@@ -1,4 +1,4 @@
-# Hi, I'm John-Alvin Ambalong
+# Hi, I'm John Alvin Ambalong
 
 **Software Engineer | Ruby on Rails & Full-Stack Development**
 

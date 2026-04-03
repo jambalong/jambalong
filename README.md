@@ -29,7 +29,7 @@ Curious by nature, stubborn by habit. I build real things, ship them, and show u
 <br>
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Hotwire](https://img.shields.io/badge/hotwire-%23FFD100.svg?style=for-the-badge&logo=hotwire&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 **DevOps & Database**
 <br>

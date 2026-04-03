@@ -1,7 +1,5 @@
 # Hi, I'm John Alvin Ambalong
 
-**Software Engineer | Ruby on Rails & Full-Stack Development**
-
 Curious by nature, stubborn by habit. I build real things, ship them, and show up every day to get better.
 
 [![Portfolio](https://img.shields.io/badge/ambalong.dev-%237c6aff.svg?style=for-the-badge&logoColor=white)](https://ambalong.dev)

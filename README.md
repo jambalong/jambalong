@@ -8,11 +8,13 @@ Curious by nature, stubborn by habit. I build real things, ship them, and show u
 
 ---
 
-## Featured Project
+## Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `PostgreSQL` `Docker` `Kamal 2` | Resource optimization platform for Wuthering Waves. Reconciles game progression requirements against player inventory, calculating exact material deficits and detecting 3-to-1 synthesis opportunities across 50+ items. Polymorphic planning models, cross-tier EXP equivalence logic, versioned REST API with token auth. Deployed to production. |
+| **[Pangu Terminal](https://github.com/jambalong/pangu-terminal)** | `Rails 8` `Hotwire` `PostgreSQL` `Docker` `Kamal 2` `GitHub Actions` | Resource optimization platform for Wuthering Waves. Production-deployed with 95%+ test coverage and CI/CD on every pull request. Service layer decouples game rules from controllers across sourced drop rate tables. Stateless REST API across seven versioned endpoints with SHA-256 hashed bearer token auth and per-key rate limiting. Waveplate Optimizer aggregates deficits across active plans and ranks dungeon sources by material breadth. RubyLLM integration injects live reconciliation data as structured context for per-plan farming recommendations. |
+| **[EFI Boot Manager Compliance](https://github.com/jambalong/efi-bootmgr-cert-check)** | `PowerShell` `ManageEngine` | Compliance script deployed across multiple departments via ManageEngine Endpoint Central. Mounts the EFI system partition at runtime, reads the boot manager signing certificate, and writes per-machine records to a UNC share. Traced incorrect issuer data from Get-AuthenticodeSignature to a known PowerShell bug; resolved by switching to X509Certificate.CreateFromSignedFile. |
+| **[Ruby Chess Engine](github.com/jambalong/chess)** | `Ruby` | Terminal chess engine in pure Ruby with no framework. Validates legal moves for all pieces via directional constraints and collision detection. Confirms check and checkmate by deep-cloning board state to simulate each candidate move. |
 
 ---
 
@@ -22,12 +24,16 @@ Curious by nature, stubborn by habit. I build real things, ship them, and show u
 <br>
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 <br>
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Hotwire](https://img.shields.io/badge/hotwire-%23FFD100.svg?style=for-the-badge&logo=hotwire&logoColor=black)
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+![RubyLLM](https://img.shields.io/badge/RubyLLM-%23CC342D.svg?style=for-the-badge&logoColor=white)
 
 **DevOps & Database**
 <br>
@@ -35,6 +41,8 @@ Curious by nature, stubborn by habit. I build real things, ship them, and show u
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kamal](https://img.shields.io/badge/Kamal-%23316192.svg?style=for-the-badge&logo=keystone&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---

@@ -49,4 +49,4 @@ Curious by nature, stubborn by habit. I build real things, ship them, and show u
 
 ## Education
 
-**AAS in Software Design** — Walla Walla Community College (Graduating June 2026)
+**AAS in Software Design** — Walla Walla Community College

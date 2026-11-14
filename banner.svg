@@ -79,33 +79,33 @@
 
   <!-- left-aligned text block -->
   <text x="60" y="80" text-anchor="start" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="40" font-weight="600" fill="#ffffff">jambalong</text>
-  <text x="60" y="108" text-anchor="start" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" fill="#ffffff">Systems, code, security.</text>
+  <text x="60" y="108" text-anchor="start" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" fill="#ffffff">I build software and write about it.</text>
 
   <!-- connecting thread beneath the tags, tying the disciplines together -->
-  <line x1="60" y1="159" x2="570" y2="159" stroke="url(#line)" stroke-width="1.5">
+  <line x1="60" y1="159" x2="394" y2="159" stroke="url(#line)" stroke-width="1.5">
     <animate attributeName="x1" values="60;80;60" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="570;590;570" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="394;414;394" dur="6s" repeatCount="indefinite"/>
   </line>
 
   <!-- three grouped pills instead of six loose tags: stack, path, and person -->
   <g font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#ffffff" text-anchor="middle">
     <g>
-      <rect x="60" y="128" width="212" height="24" rx="12" fill="#ffffff" opacity="0.15">
+      <rect x="60" y="128" width="110" height="24" rx="12" fill="#ffffff" opacity="0.15">
         <animate attributeName="opacity" values="0.12;0.22;0.12" dur="5s" begin="0s" repeatCount="indefinite"/>
       </rect>
-      <text x="166" y="144">Software Support Engineer</text>
+      <text x="115" y="144">Developer</text>
     </g>
     <g>
-      <rect x="286" y="128" width="170" height="24" rx="12" fill="#ffffff" opacity="0.15">
+      <rect x="184" y="128" width="84" height="24" rx="12" fill="#ffffff" opacity="0.15">
         <animate attributeName="opacity" values="0.12;0.22;0.12" dur="5s" begin="0.5s" repeatCount="indefinite"/>
       </rect>
-      <text x="371" y="144">C# · Ruby · DevOps</text>
+      <text x="226" y="144">Gamer</text>
     </g>
     <g>
-      <rect x="470" y="128" width="90" height="24" rx="12" fill="#ffffff" opacity="0.15">
+      <rect x="282" y="128" width="112" height="24" rx="12" fill="#ffffff" opacity="0.15">
         <animate attributeName="opacity" values="0.12;0.22;0.12" dur="5s" begin="1s" repeatCount="indefinite"/>
       </rect>
-      <text x="515" y="144">Gamer</text>
+      <text x="338" y="144">ambalong.dev</text>
     </g>
   </g>
 </svg>
